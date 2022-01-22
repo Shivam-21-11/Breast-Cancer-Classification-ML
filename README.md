@@ -1,5 +1,5 @@
 # Breast-Cancer-Classification-ML
-We are going to create a model which can predict if a person has breast-cancer.
+We are going to create a model which can predict if a person has breast-cancer.The prediction and target will be in numerical format (0 and 1), 0 means doesn't have breast cancer and 1 means have breast cancer.
 
 
 # Prerequisite
