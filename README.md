@@ -31,12 +31,12 @@ We are going to create a model which can predict if a person has breast-cancer.
   - Confusion matrix
     
 **ROC Curve**
-[![ROC_CURVE](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_GmHFbbd7F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843628311 "ROC_CURVE")](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_GmHFbbd7F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843628311 "ROC_CURVE")
+[![ROC_CURVE](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_mCW_bxKVH8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843944751)](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_mCW_bxKVH8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843944751)
 
 
 **Perfect ROC Curve**
 
-[![ROC_CURVE_PERFECT](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_perfect_6bGNt5bEK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843628635 "ROC_CURVE_PERFECT")](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_perfect_6bGNt5bEK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843628635 "ROC_CURVE_PERFECT")
+[![ROC_CURVE_PERFECT](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_perfect_THoXWO2tK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843944774)](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_perfect_THoXWO2tK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843944774)
 
 
 
