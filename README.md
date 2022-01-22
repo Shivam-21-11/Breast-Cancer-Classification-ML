@@ -31,6 +31,7 @@ We are going to create a model which can predict if a person has breast-cancer.
   - Confusion matrix
     
 **ROC Curve**
+
 [![ROC_CURVE](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_mCW_bxKVH8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843944751)](https://ik.imagekit.io/43bd8tl1l5kl/ML_PROJECT_BC/roc_curve_mCW_bxKVH8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1642843944751)
 
 
@@ -40,8 +41,4 @@ We are going to create a model which can predict if a person has breast-cancer.
 
 
 
-  **Table of Contents**
 
-[TOCM]
-
-[TOC]
